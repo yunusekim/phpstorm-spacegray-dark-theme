@@ -14,4 +14,4 @@ Spacegray-Dark Colorscheme for PhpStorm.
 * Go to `Preferences > Editor > Colors & Fonts` and select one of the new color themes.
 
 ## Screenshot
-![Spacegray-Dark](https://raw.githubusercontent.com/yunusekim/PhpStorm-Spacegray-Dark-Theme/master/screenshot.jpg)
+![Spacegray-Dark](https://raw.githubusercontent.com/yunusekim/phpstorm-spacegray-dark-theme/master/screenshot.jpg)
