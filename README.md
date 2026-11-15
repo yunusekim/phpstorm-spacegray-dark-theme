@@ -107,11 +107,6 @@ Theme files live in [`src/main/resources/themes`](src/main/resources/themes).
 
 Found a color that looks off? [Open an issue](https://github.com/yunusekim/phpstorm-spacegray-dark-theme/issues) with a screenshot and the language you were using. Pull requests are welcome.
 
-## Credits
-
-- [Spacegray](https://github.com/kkga/spacegray) for Sublime Text by Gadzhi Kharkharov
-- [Base16 Ocean](https://github.com/chriskempson/base16) by Chris Kempson
-
 ## License
 
 [MIT](LICENSE) © Yunus Ekim
