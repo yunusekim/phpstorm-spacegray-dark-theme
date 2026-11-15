@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/main/resources/META-INF/pluginIcon.svg" width="88" height="88" alt="">
+<img src="docs/pluginIcon.svg" width="88" height="88" alt="">
 
 # Spacegray Dark/Light Theme
 
