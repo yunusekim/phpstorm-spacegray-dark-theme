@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 316" width="1200" height="316" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="1199" height="149" rx="14" fill="#22252f" stroke="#464c5e"/>
+<text x="36" y="72" fill="#c0c5ce" font-size="20" font-weight="600">Spacegray Dark</text>
+<text x="36" y="98" fill="#9aa3af" font-size="14" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#22252F</text>
+<circle cx="316" cy="52" r="26" fill="#bf616a"/>
+<text x="316" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Variables</text>
+<text x="316" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#BF616A</text>
+<circle cx="428" cy="52" r="26" fill="#d08770"/>
+<text x="428" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Numbers</text>
+<text x="428" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#D08770</text>
+<circle cx="540" cy="52" r="26" fill="#ebcb8b"/>
+<text x="540" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Classes</text>
+<text x="540" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#EBCB8B</text>
+<circle cx="652" cy="52" r="26" fill="#a3be8c"/>
+<text x="652" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Strings</text>
+<text x="652" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#A3BE8C</text>
+<circle cx="764" cy="52" r="26" fill="#96b5b4"/>
+<text x="764" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Built-ins</text>
+<text x="764" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#96B5B4</text>
+<circle cx="876" cy="52" r="26" fill="#8fa1b3"/>
+<text x="876" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Functions</text>
+<text x="876" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#8FA1B3</text>
+<circle cx="988" cy="52" r="26" fill="#b48ead"/>
+<text x="988" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Keywords</text>
+<text x="988" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#B48EAD</text>
+<circle cx="1100" cy="52" r="26" fill="#65737e"/>
+<text x="1100" y="106" text-anchor="middle" fill="#c0c5ce" font-size="13">Comments</text>
+<text x="1100" y="126" text-anchor="middle" fill="#9aa3af" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#65737E</text>
+<rect x="0.5" y="166.5" width="1199" height="149" rx="14" fill="#eff1f5" stroke="#c0c5ce"/>
+<text x="36" y="238" fill="#2b303b" font-size="20" font-weight="600">Spacegray Light</text>
+<text x="36" y="264" fill="#5a6672" font-size="14" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#EFF1F5</text>
+<circle cx="316" cy="218" r="26" fill="#a5424d"/>
+<text x="316" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Variables</text>
+<text x="316" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#A5424D</text>
+<circle cx="428" cy="218" r="26" fill="#a8582e"/>
+<text x="428" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Numbers</text>
+<text x="428" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#A8582E</text>
+<circle cx="540" cy="218" r="26" fill="#866610"/>
+<text x="540" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Classes</text>
+<text x="540" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#866610</text>
+<circle cx="652" cy="218" r="26" fill="#4c7838"/>
+<text x="652" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Strings</text>
+<text x="652" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#4C7838</text>
+<circle cx="764" cy="218" r="26" fill="#2a7875"/>
+<text x="764" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Built-ins</text>
+<text x="764" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#2A7875</text>
+<circle cx="876" cy="218" r="26" fill="#3f6a94"/>
+<text x="876" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Functions</text>
+<text x="876" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#3F6A94</text>
+<circle cx="988" cy="218" r="26" fill="#8a5a8f"/>
+<text x="988" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Keywords</text>
+<text x="988" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#8A5A8F</text>
+<circle cx="1100" cy="218" r="26" fill="#7b8594"/>
+<text x="1100" y="272" text-anchor="middle" fill="#2b303b" font-size="13">Comments</text>
+<text x="1100" y="292" text-anchor="middle" fill="#5a6672" font-size="11.5" font-family="DejaVu Sans Mono,SFMono-Regular,Menlo,Consolas,monospace">#7B8594</text>
+</svg>
