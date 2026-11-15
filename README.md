@@ -91,16 +91,6 @@ Diffs, VCS status, inspections, search results, inlay hints, the debugger and th
 
 PhpStorm · WebStorm · IntelliJ IDEA · PyCharm · GoLand · RubyMine · CLion · Rider · DataGrip · RustRover · Android Studio
 
-## Building from source
-
-```shell
-git clone https://github.com/yunusekim/phpstorm-spacegray-dark-theme.git
-cd phpstorm-spacegray-dark-theme
-
-./gradlew runIde        # try the theme in a sandbox IDE
-./gradlew buildPlugin   # build/distributions/spacegray-dark-light-theme-<version>.zip
-```
-
 Theme files live in [`src/main/resources/themes`](src/main/resources/themes).
 
 ## Contributing
